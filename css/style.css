@@ -1,0 +1,120 @@
+header {
+	text-align:center;
+	padding-top: 20px;
+}
+
+.quote {
+ height:auto;
+ width:680px;
+ border-style: solid;
+ border-color: gray;
+ margin:auto;
+ font-size:120%;
+ padding:10px;
+ border-radius: 10px;
+}
+
+.det {
+ height:auto;
+ width:700px;
+ border-style: solid;
+ border-color: gray;
+ margin:auto;
+ margin-top: 10px;
+ font-size:120%;
+ padding:10px;
+}
+
+.det1 {
+ height:auto;
+ width:700px;
+ border-style: solid;
+ border-color: gray;
+ margin:auto;
+ margin-top: 10px;
+ font-size:120%;
+ padding:10px;
+}
+
+.gif2 {
+ background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Spot_the_cow.gif/240px-Spot_the_cow.gif');
+ height:240px;
+ width:720px;
+ border-style: solid;
+ border-color: gray;
+ margin:auto;
+ margin-top: 10px;
+  border-radius: 10px;
+}
+
+.gif1 {
+ background-image:url('https://render.ru/xen/attachments/tor-gif.284513/');
+ background-size: contain;
+ height: 300px;
+ width: 800px;
+ margin:auto;
+ border-style: solid;
+ border-color: gray;
+ border-radius: 10px;
+ 
+}
+
+.text {
+ height:auto;
+ width:80%;
+ margin:auto;
+ margin-top: 10px;
+ font-size:120%;
+ padding:10px;
+}
+
+.all {
+ background-color:#fffcfa;
+ width: 1000px;
+ margin: auto;
+ padding-bottom:20px;
+ border-radius: 20px;
+}
+
+body {
+	background-size: 100%;
+	font-family: "Lucida Sans Unicode" ;
+	background-image: url("https://phonoteka.org/uploads/posts/2021-05/1620104070_38-phonoteka_org-p-fon-dlya-prezentatsii-kletka-matematika-42.jpg");
+}
+
+.img2 {
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 600px;
+	width: 780px;
+	margin:auto;
+	background-image: url('https://avatars.dzeninfra.ru/get-zen_doc/1894366/pub_6102469ce2aa8a3dae49c58a_610246a6e476f905355e32b8/scale_1200');
+}
+
+.img1 {
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 500px;
+	width: 780px;
+	margin:auto;
+	margin-top: 40px;
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Moebiusband-1s.svg/1200px-Moebiusband-1s.svg.png');
+}
+
+.container {
+	width: 100%;
+    float: left;
+    overflow: hidden;
+    margin-left:100px;
+	text-align: center;
+}
+
+.img11, .img12 {
+	height: 540px;
+	width: 400px;
+	float: left;
+}
+
+.img13 {
+	margin-right:100px;
+}
